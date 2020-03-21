@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\bin\Debug\Winform-MuntliForm.exe.config
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\bin\Debug\Winform-MuntliForm.exe
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\bin\Debug\Winform-MuntliForm.pdb
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform-MuntliForm.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform_MuntliForm.frmMain.resources
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform_MuntliForm.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform-MuntliForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform-MuntliForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform-MuntliForm.exe
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform-MuntliForm.pdb
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform_MuntliForm.frmDangNhap.resources
+C:\Users\ADMIN\source\repos\Winform-MuntliForm\Winform-MuntliForm\obj\Debug\Winform_MuntliForm.frmQuanLySanPham.resources

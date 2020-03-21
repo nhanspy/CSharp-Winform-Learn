@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\bin\Debug\netcoreapp2.1\CSharp-kiemtra1.deps.json
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\bin\Debug\netcoreapp2.1\CSharp-kiemtra1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\bin\Debug\netcoreapp2.1\CSharp-kiemtra1.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\bin\Debug\netcoreapp2.1\CSharp-kiemtra1.dll
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\bin\Debug\netcoreapp2.1\CSharp-kiemtra1.pdb
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.dll
+C:\Users\ADMIN\source\repos\CSharp-kiemtra1\CSharp-kiemtra1\obj\Debug\netcoreapp2.1\CSharp-kiemtra1.pdb

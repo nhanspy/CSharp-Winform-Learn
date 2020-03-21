@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 307px;
+        }
+        .auto-style2 {
+            width: 303px;
+        }
+        .auto-style3 {
+            width: 736px;
+        }
+    </style>
+</head>
+<body style="height: 74px; margin-bottom: 0px">
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2">
+                    <asp:Repeater ID="Repeater1" runat="server">
+                        <ItemTemplate>
+                            <a href="DanhSach.aspx?madanhmuc=<%# Eval("madanhmuc") %>">
+                                <%# Eval("tendanhmuc") %>
+                            </a>
+                            <br>
+                        </ItemTemplate>
+                    </asp:Repeater>
+                </td>
+                <td class="auto-style3">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

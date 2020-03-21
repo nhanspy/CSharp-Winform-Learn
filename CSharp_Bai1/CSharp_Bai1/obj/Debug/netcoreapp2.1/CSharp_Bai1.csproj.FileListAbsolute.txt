@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\bin\Debug\netcoreapp2.1\CSharp_Bai1.deps.json
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\bin\Debug\netcoreapp2.1\CSharp_Bai1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\bin\Debug\netcoreapp2.1\CSharp_Bai1.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\bin\Debug\netcoreapp2.1\CSharp_Bai1.dll
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\bin\Debug\netcoreapp2.1\CSharp_Bai1.pdb
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.dll
+C:\Users\ADMIN\source\repos\CSharp_Bai1\CSharp_Bai1\obj\Debug\netcoreapp2.1\CSharp_Bai1.pdb

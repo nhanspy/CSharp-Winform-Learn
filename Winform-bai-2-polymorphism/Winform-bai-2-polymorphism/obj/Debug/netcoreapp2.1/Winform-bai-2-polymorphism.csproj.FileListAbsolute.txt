@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\bin\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.deps.json
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\bin\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\bin\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\bin\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.dll
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\bin\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.pdb
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.dll
+C:\Users\ADMIN\source\repos\Winform-bai-2-polymorphism\Winform-bai-2-polymorphism\obj\Debug\netcoreapp2.1\Winform-bai-2-polymorphism.pdb
